@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Dafnispanop/Smart/static/css/main.291230f3.css",
+    "main.js": "/Dafnispanop/Smart/static/js/main.f1413354.js",
+    "static/js/787.79947761.chunk.js": "/Dafnispanop/Smart/static/js/787.79947761.chunk.js",
+    "static/media/computer.jpg": "/Dafnispanop/Smart/static/media/computer.ad6a54f0c5f9a4ea72af.jpg",
+    "static/media/car.jpg": "/Dafnispanop/Smart/static/media/car.39e917601bc0c8b8c83b.jpg",
+    "index.html": "/Dafnispanop/Smart/index.html",
+    "main.291230f3.css.map": "/Dafnispanop/Smart/static/css/main.291230f3.css.map",
+    "main.f1413354.js.map": "/Dafnispanop/Smart/static/js/main.f1413354.js.map",
+    "787.79947761.chunk.js.map": "/Dafnispanop/Smart/static/js/787.79947761.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.291230f3.css",
+    "static/js/main.f1413354.js"
+  ]
+}
